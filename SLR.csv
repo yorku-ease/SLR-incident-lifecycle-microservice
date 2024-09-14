@@ -1,0 +1,48 @@
+﻿Title,Citation,Year,Data source,Tool Available,Tool Installed/Executed,Repo Link,Data,Quantitative evaluation,User study,Traditional Method,Deep Learning,LLM,Traces,Logs,Metrics,Other Data Type,Other data used,Incident Lifecycle,Anomaly Type Discussed,Quality,,Goal,,,,,Multiple data source
+KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding,knowlog,2024,Scopus,1,1,https://github.com/LeaperOvO/KnowLog,"96,060 log templates and the corresponding natural language descriptions from Cisco, Huawei and H3C public product manuals for four products in switches, routers, security and WLAN",1,0,0,0,1,0,1,0,0,,Detection and Analysis,Identify anomaly and cause in network,5,https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf,Other,0,0,0,0,0
+Assess and Summarize: Improve Outage Understanding with Large Language Models,Jin20231657,2023,Scopus,0,0,,,1,1,1,1,1,0,0,0,1,"Incident information such as status and actions
+outgae information",Detection and Analysis,Cloud system outage/incidents,6,,Other,0,0,0,0,0
+LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection,Qi2023273,2023,Scopus,0,0,,,1,0,0,0,1,0,1,0,0,,Detection and Analysis,Log anomaly identification,3,,Anomaly detection,0,1,0,0,0
+ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection,Chen2023359,2023,Scopus,1,1,https://github.com/17000cyh/IMDiffusion,MTS anomaly public dataset,1,0,0,1,0,0,0,0,1,Multivariate Time Series,Detection and Analysis,Time series data anomaly,5,,Anomaly detection,0,0,0,0,0
+ESRO: Experience Assisted Service Reliability against Outages,Chakraborty2023255,2023,Scopus,1,0,https://github.com/sarthak-chakraborty/ESRO,Dummy data,1,0,1,0,0,0,0,0,1,"Alerts
+Outage report
+Knowledge Graph","Containment, Eradication, and Recovery",Alerts and outages,4,,Root cause analysis,0,0,0,1,0
+Analyzing Declarative Deployment Code with Large Language Models,Lanciano2023289,2023,Scopus,0,,,,1,0,0,0,1,0,0,0,1,kubernetes manifest,Preparation,Deployment anomaly,3,,Other,0,0,0,0,0
+Log Attention - Assessing Software Releases with Attention-Based Log Anomaly Detection,logattention,2021,Engineering Village,0,0,,,1,0,0,1,0,0,1,0,0,,Preparation,Preemptive capture failure before release,3,,Anomaly detection,0,1,0,0,0
+From Point-wise to Group-wise: A Fast and Accurate Microservice Trace Anomaly Detection Approach,point-wise,2023,Engineering Village,1,1,https://github.com/NetManAIOps/GTrace,Test bed with fault injection,1,0,1,1,0,1,0,0,0,,Detection and Analysis,Application anomaly detection,6,,Anomaly detection,1,0,0,0,0
+Look Deep into the Microservice System Anomaly through Very Sparse Logs,sparselog,2023,Engineering Village,1,0,https://github.com/jxrjxrjxr/MicroCU,No data,1,0,1,0,0,0,1,0,,,Detection and Analysis,Anomaly detection without monitoring infrastructure,4,,Anomaly detection,0,1,0,0,0
+TraceCRL: contrastive representation learning for microservice trace analysis,tracecrl,2022,Engineering Village,0,0,Data only - https://github.com/FudanSELab/TraceCRL,Train ticket dataset,1,0,0,1,0,1,0,0,0,,Detection and Analysis,Application anomaly detection,3,,Anomaly detection,1,0,0,0,0
+Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks,liu2023logbasedanomalydetectionbased,2020,IEEE,1,1,https://github.com/NetManAIOps/TraceAnomaly,Train ticket dataset,1,0,0,1,0,1,0,0,0,,Detection and Analysis,Microservice anomaly,5,,Anomaly detection,1,0,0,0,0
+Efficient and Robust Trace Anomaly Detection for Large-Scale Microservice Systems,Zhang2023robust,2023,IEEE,1,0,https://github.com/GazeTheAbyss/ISSRE23-TraceSieve,No data,1,0,1,1,0,1,0,0,0,,Detection and Analysis,"Root cause localization
+anomaly detection",5,,Anomaly detection,1,0,0,0,0
+Trace-based Intelligent Fault Diagnosis for Microservices with Deep Learning,Chen2021,2021,IEEE,0,0,,,1,0,0,1,0,1,0,0,0,,Detection and Analysis,Microservice anomaly,3,,Root cause analysis,0,0,0,0,0
+Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data,Lee2023,2023,IEEE,1,,https://github.com/BEbillionaireUSD/Eadro,https://zenodo.org/records/7615394,1,0,1,1,0,1,1,1,0,,"Detection and Analysis, Containment, Eradication, and Recovery","Microservice anomaly
+root cause analysis",7,,"Anomaly detection
+Root cause analysis",0,0,0,0,1
+Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings,Wang2021,2021,IEEE,0,0,,,1,1,1,0,0,0,1,1,1,"
+developer activities","Containment, Eradication, and Recovery",Root cause analysis,6,,Root cause analysis,0,0,0,1,1
+Multilayered Fault Detection and Localization With Transformer for Microservice Systems,Wang2024,2024,IEEE,0,0,,,1,0,1,1,0,1,0,1,0,,"Containment, Eradication, and Recovery","Microservice anomaly
+root cause analysis",5,,Root cause analysis,0,0,0,0,1
+Fault Report Generation for ICT Systems by Jointly Learning Time-series and Text Data,Fukuda2022,2022,IEEE,0,0,,,1,0,0,1,0,0,1,1,0,,Detection and Analysis,ICT system anomaly detection,4,,Other,0,0,0,0,1
+Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection (2024),liu2024largelanguagemodelsdeliver,2024,Arxiv,0,0,,,1,1,0,0,1,0,0,1,1,"Alerts
+Standard Operation Procedure",Detection and Analysis,Cloud system outage/incidents,5,,Anomaly detection,0,0,0,0,1
+mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture (2024),zhang2024mabcmultiagentblockchaininspiredcollaboration,2024,Arxiv,0,0,,,1,1,0,0,1,0,0,0,1,"Alert
+previous success experience","Containment, Eradication, and Recovery",Cloud system outage/incidents,4,,Root cause analysis,0,0,0,1,0
+"LLM-Based Kubernetes Misconfiguration Detection, Localization, Reasoning, and Remediation (2024)",malul2024genkubesecllmbasedkubernetesmisconfiguration,2024,Arxiv,0,0,,,1,0,0,0,1,0,0,0,1,"Rule
+configuration file",Preparation,Kubernetes configuration files misconfiguration,3,,Other,0,0,0,0,0
+Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4 (2024),Zhang2024Automated,2024,Arxiv,0,0,,,1,1,0,0,1,0,0,0,1,Incident history,"Containment, Eradication, and Recovery",,4,,Root cause analysis,0,0,0,1,0
+RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models (2023),wang2023rcagentcloudrootcause,2023,Arxiv,0,0,,,1,0,0,0,1,0,1,0,1,"code
+incident summary","Containment, Eradication, and Recovery",Cloud system outage/incidents,4,,Root cause analysis,0,0,0,1,1
+Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems (2024),huang2024,2024,Arxiv,0,0,,,1,0,0,0,1,0,0,0,1,Incident tickets,Post-Incident Activity,Classifying incident to categories,3,,Other,0,0,0,0,0
+Empowering Incident Management with Query Recommendations via Large Language Models (2023),jiang2024,2023,Arxiv,0,0,,,1,0,0,0,1,0,0,0,1,"Incident history
+KQL queries","Containment, Eradication, and Recovery",KQL query generation,3,,Other,0,0,0,0,0
+X-lifecycle Learning for Cloud Incident Management using LLMs (2024),goel2024,2024,Arxiv,0,0,,,1,0,0,0,1,0,0,1,1,"Incident History
+Service dependency","Containment, Eradication, and Recovery",Cloud system outage/incidents,4,,Anomaly detection,0,0,0,0,1
+Learning Representations on Logs for AIOps (2023),gupta2023,2023,Arxiv,0,0,,,1,0,0,0,1,0,1,0,0,,Detection and Analysis,Log anomaly identification,3,,Other,0,0,0,0,0
+LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection (2023),,2023,Arxiv,0,0,,,1,0,0,0,1,0,1,0,0,,,Log anomaly identification,3,,,0,0,0,0,0
+Multi-modal Causal Structure Learning and Root Cause Analysis (2024),zheng2024mulan,2024,Arxiv,0,0,,"Online Boutique, product review, train ticket",1,0,0,1,0,0,1,1,0,,"Containment, Eradication, and Recovery",,4,,Root cause analysis,0,0,0,0,1
+Few-Shot Cross-System Anomaly Trace Classification for Microservice-based systems (2024),wang2024fewshotcrosssystemanomalytrace,2024,Arxiv,,,,"DeepTraLog (trainticket), NeZha (train ticket and online boutique)",1,0,0,1,0,1,1,0,0,,Detection and Analysis,Trace anomaly,4,,Anomaly detection,0,0,0,0,1
+Log-based Anomaly Detection based on EVT Theory with feedback (2023),liu2023logbasedanomalydetectionbased,2023,Arxiv,0,0,,,1,0,1,0,1,0,1,0,0,,Detection and Analysis,Real-time log anomaly,4,,Anomaly detection,0,1,0,0,0
+Robust Failure Diagnosis of Microservice System through Multimodal Data (2023),Zhang2023,2023,IEEE,1,,https://github.com/AIOps-Lab-NKU/DiagFusion,https://github.com/CloudWise-OpenSource/GAIA-DataSet,1,0,0,1,0,1,1,1,0,,"Containment, Eradication, and Recovery",Failure type identification,6,,Root cause analysis,0,0,0,0,1
+MLAD: A Unified Model for Multi-system Log Anomaly Detection (2024),zang2024mladunifiedmodelmultisystem,2024,Arxiv,0,0,,,1,0,0,1,0,0,1,0,0,,Detection and Analysis,Multi-system log detection,3,,Anomaly detection,0,1,0,0,0
+,,11,,,,,,,5,9,15,15,9,15,8,13,,,,,,,4,5,0,5,
